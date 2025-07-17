@@ -45,5 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal36&" alt="sujal36" /></p>
 
-
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal36&theme=tokyo-night" alt="Activity Graph"/>
+</p>
 
