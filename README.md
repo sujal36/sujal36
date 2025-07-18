@@ -43,8 +43,9 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal36&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal36&show_icons=true&locale=en&cache_seconds=60" alt="GitHub Stats" />
 </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal36&" alt="sujal36" /></p>
 
